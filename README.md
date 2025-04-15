@@ -5,6 +5,22 @@ Este repositório reúne duas entregas obrigatórias da Fase 6 do curso de Intel
 Na Entrega 1, utilizamos a arquitetura YOLOv5 customizada para treinar um modelo com imagens rotuladas manualmente. 
 Na Entrega 2, comparamos essa abordagem com uma rede YOLO tradicional (pré-treinada) e uma CNN desenvolvida do zero, avaliando desempenho e aplicabilidade.
 
+## 👥 Equipe
+
+### Membros
+- Amandha Nery (RM560030)
+- Bruno Conterato (RM561048)
+- Gustavo Castro (RM560831)
+- Kild Fernandes (RM560615)
+- Luis Emidio (RM559976)
+
+### Professores
+- Tutor: Leonardo Ruiz Orabona
+- Coordenador: André Godoi
+
+## 📬 Contato  
+Se tiver alguma dúvida, sinta-se à vontade para entrar em contato. 🚀
+
 ## Como executar
 
 #### Clonar o repositório
