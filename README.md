@@ -2,11 +2,12 @@
 
 Este repositório reúne duas entregas obrigatórias da Fase 6 do curso de Inteligência Artificial da FIAP. O projeto simula um sistema de Visão Computacional aplicado a um cliente fictício da FarmTech Solutions, com foco na detecção e classificação de objetos.
 
-Na Entrega 1, utilizamos a arquitetura YOLOv5 customizada para treinar um modelo com imagens rotuladas manualmente. Na Entrega 2, comparamos essa abordagem com uma rede YOLO tradicional (pré-treinada) e uma CNN desenvolvida do zero, avaliando desempenho e aplicabilidade.
+Na Entrega 1, utilizamos a arquitetura YOLOv5 customizada para treinar um modelo com imagens rotuladas manualmente. 
+Na Entrega 2, comparamos essa abordagem com uma rede YOLO tradicional (pré-treinada) e uma CNN desenvolvida do zero, avaliando desempenho e aplicabilidade.
 
 ## Como executar
 
-### Clonar o repositório
+#### Clonar o repositório
 Abra o Google Colab e execute:
 
 ```python
