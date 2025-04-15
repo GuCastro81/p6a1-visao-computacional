@@ -1,23 +1,62 @@
-# Visão Computacional com YOLO e CNN – Fase 6
+# Fiap -  Fase 6 -  Visão Computacional com YOLO e CNN
 
 Este repositório reúne duas entregas obrigatórias da Fase 6 do curso de Inteligência Artificial da FIAP. O projeto simula um sistema de Visão Computacional aplicado a um cliente fictício da FarmTech Solutions, com foco na detecção e classificação de objetos.
 
 Na Entrega 1, utilizamos a arquitetura YOLOv5 customizada para treinar um modelo com imagens rotuladas manualmente. Na Entrega 2, comparamos essa abordagem com uma rede YOLO tradicional (pré-treinada) e uma CNN desenvolvida do zero, avaliando desempenho e aplicabilidade.
 
+## Como executar
+
+### Clonar o repositório
+Abra o Google Colab e execute:
+
+```python
+!git clone https://github.com/GuCastro81/p6a1-visao-computacional.git 
+
+%cd p6a1-visao-computacional
+
+```
 ---
 
-## 🎯 Entrega 1 — Sistema de Visão Computacional com YOLO Customizada
+## 🎯 Entrega 1 — Sistema de visão computacional com YOLOv5 
 
-- **Objetivo:** Demonstrar o funcionamento de um sistema de detecção de objetos com YOLOv5, utilizando imagens reais e rotuladas no Make Sense AI.
-- **Dataset:** Composto por 80 imagens de dois objetos distintos (40 de cada), separadas em treino, validação e teste.
-- **Processos realizados:**
-  - Rotulagem manual com bounding boxes.
-  - Treinamento com 30 e 60 épocas.
-  - Avaliação de desempenho do modelo com imagens reais.
-  - Prints dos resultados do diretório `runs/detect/expX`.
+Neste projeto fomos desafiados pela FarmTech Solutions a criar um sistema de visão computacional utilizando o modelo YOLOv5. O objetivo era demonstrar na prática a aplicação e eficácia dessa tecnologia em um cenário escolhido livremente pelo grupo.
+
+Escolhemos dois objetos distintos para análise: capacetes de segurança e drones, totalizando 80 imagens divididas igualmente entre os dois conjuntos. Essa seleção foi feita visando explorar a detecção de objetos tanto no contexto de segurança no trabalho quanto em tecnologias de monitoramento.
+
+ 
+## Introdução
+
+Neste projeto desenvolvido para a fase 6 do curso, fomos desafiados pela FarmTech Solutions a criar um sistema de visão computacional utilizando o modelo YOLO (You Only Look Once). O objetivo era demonstrar na prática a aplicação e eficácia dessa tecnologia em um cenário escolhido livremente pelo grupo.
+
+Escolhemos dois objetos distintos para análise: **capacetes de segurança** e **drones**, totalizando 80 imagens divididas igualmente entre os dois conjuntos. Essa seleção foi feita visando explorar a detecção de objetos tanto no contexto de segurança no trabalho quanto em tecnologias de monitoramento.
+
+### Ferramentas utilizadas
+
+- **Rotulação:** [Make Sense IA](https://www.makesense.ai/)
+- **Ambiente de desenvolvimento:** Google Colab conectado ao Google Drive
+- **Framework utilizado:** YOLOv5
+- **Dataset** - Google Drive
+  - **Total de imagens:** 80 imagens
+    - 40 imagens de **capacetes de segurança**
+    - 40 imagens de **drones**
+  - **Divisão do dataset:**
+    - Treinamento: 64 imagens (32 por objeto)
+    - Validação: 8 imagens (4 por objeto)
+    - Testes: 8 imagens (4 por objeto)
+
+- Foram executadas duas simulações de treinamento com números distintos de épocas:
+- **Primeira simulação:** 30 épocas
+- **Segunda simulação:** 60 épocas
+
+### Notebook Jupyter (Colab)
+Acesse o notebook Jupyter através deste link:
+- [link]
+
+O notebook contém:
+- Células de código executadas e comentadas detalhadamente.
+- Células de Markdown com explicações sobre o método utilizado, análises dos resultados obtidos e conclusões sobre pontos fortes e limitações do modelo.
 
 🔗 [Vídeo Demonstrativo no YouTube (até 5 min)](https://www.youtube.com/)  
-📘 [Notebook no Google Colab](https://colab.research.google.com/)
 
 ---
 
@@ -59,4 +98,17 @@ Na Entrega 1, utilizamos a arquitetura YOLOv5 customizada para treinar um modelo
 
 ---
 
-**FIAP | Fase 6 – Projeto de Inteligência Artificial | 2025**
+### Equipe desenvolvedora
+- [Amandha Nery](https://github.com/insanedays/)(RM560030) 
+- Bruno Conterato (RM561048)
+- Gustavo Castro (RM560831)
+- Kild Fernandes (RM560615)
+- Luis Emidio (RM559976)
+  
+### Professores
+- Monitor: Leonardo Ruiz Orabona
+- Coordenador: André Godoi
+
+
+
+
