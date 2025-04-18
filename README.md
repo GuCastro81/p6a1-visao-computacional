@@ -66,8 +66,7 @@ Escolhemos dois objetos distintos para análise: **capacetes de segurança** e *
 - **Segunda simulação:** 60 épocas
 
 ### Notebook Jupyter (Colab)
-Acesse o notebook Jupyter através deste link:
-- [[link](https://colab.research.google.com/drive/1AB1_zVO89Xih9t1GqknAmx9thRaxVzO0?usp=sharing)]
+Acesse o notebook Jupyter através deste [link](https://colab.research.google.com/drive/1AB1_zVO89Xih9t1GqknAmx9thRaxVzO0?usp=sharing)
 
 O notebook contém:
 - Células de código executadas e comentadas detalhadamente.
