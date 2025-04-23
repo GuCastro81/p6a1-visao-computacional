@@ -5,22 +5,6 @@ Este repositório reúne duas entregas obrigatórias da Fase 6 do curso de Intel
 Na Entrega 1, utilizamos a arquitetura YOLOv5 customizada para treinar um modelo com imagens rotuladas manualmente. 
 Na Entrega 2, comparamos essa abordagem com uma rede YOLO tradicional (pré-treinada) e uma CNN desenvolvida do zero, avaliando desempenho e aplicabilidade.
 
-## 👥 Equipe
-
-### Membros
-- Amandha Nery (RM560030)
-- Bruno Conterato (RM561048)
-- Gustavo Castro (RM560831)
-- Kild Fernandes (RM560615)
-- Luis Emidio (RM559976)
-
-### Professores
-- Tutor: Leonardo Ruiz Orabona
-- Coordenador: André Godoi
-
-## 📬 Contato  
-Se tiver alguma dúvida, sinta-se à vontade para entrar em contato. 🚀
-
 ## Como executar
 
 #### Clonar o repositório
@@ -40,12 +24,6 @@ Neste projeto fomos desafiados pela FarmTech Solutions a criar um sistema de vis
 
 Escolhemos dois objetos distintos para análise: capacetes de segurança e drones, totalizando 80 imagens divididas igualmente entre os dois conjuntos. Essa seleção foi feita visando explorar a detecção de objetos tanto no contexto de segurança no trabalho quanto em tecnologias de monitoramento.
 
- 
-## Introdução
-
-Neste projeto desenvolvido para a fase 6 do curso, fomos desafiados pela FarmTech Solutions a criar um sistema de visão computacional utilizando o modelo YOLO (You Only Look Once). O objetivo era demonstrar na prática a aplicação e eficácia dessa tecnologia em um cenário escolhido livremente pelo grupo.
-
-Escolhemos dois objetos distintos para análise: **capacetes de segurança** e **drones**, totalizando 80 imagens divididas igualmente entre os dois conjuntos. Essa seleção foi feita visando explorar a detecção de objetos tanto no contexto de segurança no trabalho quanto em tecnologias de monitoramento.
 
 ### Ferramentas utilizadas
 
@@ -113,8 +91,8 @@ O notebook contém:
 - As imagens de teste e validação utilizadas foram capturadas, organizadas e rotuladas pelo grupo, conforme as orientações do projeto.
 
 ---
+## 👥 Equipe
 
-### Equipe desenvolvedora
 - [Amandha Nery](https://github.com/insanedays/)(RM560030) 
 - Bruno Conterato (RM561048)
 - Gustavo Castro (RM560831)
@@ -125,6 +103,7 @@ O notebook contém:
 - Monitor: Leonardo Ruiz Orabona
 - Coordenador: André Godoi
 
-
+## 📬 Contato  
+Se tiver alguma dúvida, sinta-se à vontade para entrar em contato. 🚀
 
 
