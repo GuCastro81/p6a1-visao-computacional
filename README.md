@@ -66,10 +66,10 @@ O notebook contém:
   - Tempo de treinamento
   - Tempo de inferência
 
-## 🔗 Acesso direto aos notebooks no Google Colab
+## 🔗 Acesso aos Notebooks no Google Colab
 
-- 📘 [Notebook 1 – Versão Customizada do YOLO](https://colab.research.google.com/drive/1hfeOuIF8BI0GSHc0PwNLqh07LUoZ3Rpa)
-- 📗 [Notebook 2 – Comparação com YOLOv5 Padrão](https://colab.research.google.com/drive/17q-kkEWtyHZwq8ZG-6HRv0nD_2VJVJWO)
+- 🎯 [Notebook – YOLOv5 padrão (pré-treinado)](https://colab.research.google.com/drive/17q-kkEWtyHZwq8ZG-6HRv0nD_2VJVJWO)
+- 🧠 [Notebook – CNN treinada do zero](https://colab.research.google.com/drive/1hfeOuIF8BI0GSHc0PwNLqh07LUoZ3Rpa)
 
 🔍 A análise crítica está incluída em células Markdown no próprio notebook.
 
