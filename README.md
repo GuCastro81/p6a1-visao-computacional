@@ -78,12 +78,14 @@ O notebook contém:
 ## 📁 Estrutura do Repositório
 
 ```
-├── data/                # Pastas para organização local (ex: train, val, test)
-├── imgs/                # Prints dos testes
-├── yolov5/              # Repositório clonado da YOLOv5 (opcional)
-├── gustavo_rocha_rmXXXXXX_pbl_fase6.ipynb
-├── README.md
-└── .gitignore
+├── data/                          # Pasta com dados utilizados para treinamento/teste
+├── entrega2_cnn.ipynb            # Notebook com modelo CNN treinado do zero
+├── entrega2_yolov5_padrao_comp.ipynb  # Notebook com YOLOv5 pré-treinado (comparação)
+├── train_yolo.ipynb              # Notebook de treinamento do modelo YOLO customizado
+├── TODO.md                       # Lista de tarefas ou pendências do projeto
+├── README.md                     # Documentação principal do repositório
+└── .gitignore                    # Arquivos/pastas ignoradas pelo Git
+
 ```
 
 ---
