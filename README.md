@@ -50,7 +50,7 @@ O notebook contém:
 - Células de código executadas e comentadas detalhadamente.
 - Células de Markdown com explicações sobre o método utilizado, análises dos resultados obtidos e conclusões sobre pontos fortes e limitações do modelo.
 
-🔗 [Vídeo Demonstrativo no YouTube (até 5 min)](https://www.youtube.com/)  
+🔗 [[Vídeo Demonstrativo no YouTube )](https://youtu.be/0kCADhcjvhs)
 
 ---
 
